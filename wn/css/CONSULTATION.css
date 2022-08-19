@@ -1,0 +1,61 @@
+#body{
+    overflow-x:hidden;
+    font-family: 'Montserrat';
+    line-height: 1.8em;
+    background-color: rgba(235, 54, 86, 0.03137254901960784);
+  }
+  #head-title
+  {
+    background-color: #fff;
+    height: 160px;
+    width: auto;
+    text-align: center;
+    padding-top: 2%;
+    margin-top: -22%;
+    border-radius: 10px;
+    text-transform: uppercase;
+    box-shadow: 0px 5px 21px 0px rgba(254, 119, 101, 0.2); 
+  }
+  
+/* main title */
+#title
+{
+    font-size:22px;
+    color:#262b30;
+}
+
+/* content */
+#content
+{
+    font-size:14px;
+    color:#4c545c;
+}
+
+/* sub title */
+#sub-title
+{
+    font-size:16px;
+}
+
+/* profile card */
+.wrapper {
+    padding: 10px;
+  }
+  .image--cover {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    margin: 20px;
+    object-fit: cover;
+    object-position: center right;
+  }
+
+a:hover
+{
+    text-decoration: none;
+}
+
+li
+{
+margin-top: 10px;
+}

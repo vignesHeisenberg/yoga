@@ -1,0 +1,90 @@
+#body{
+    overflow-x:hidden;
+    font-family: 'Montserrat';
+    background-color: rgba(235, 54, 86, 0.03137254901960784);
+  }
+  #head-title
+  {
+    background-color: #fff;
+    height: 140px;
+    width: auto;
+    text-align: center;
+    padding-top: 2%;
+    margin-top: -22%;
+    border-radius: 10px;
+    text-transform: uppercase;
+    box-shadow: 0px 5px 21px 0px rgba(254, 119, 101, 0.2); 
+  }
+ #founder
+ {
+   align-content: center;
+     height:300px;
+    width: auto;
+ } 
+
+ /* form about */
+   /* form */
+   #inputEmail3
+   {
+     width: 100%;
+     height: 60px;
+     border: 1px solid #eee;
+     border-radius: 5px;
+     padding: 0 30px;
+     background-color: #fff;
+     font-family: 'Hind', sans-serif;
+     font-size: 16px;
+     border: 1px solid #dc3545;
+   }
+   #ta
+   {
+     width: 100%;
+     height: 60px;
+     border: 1px solid #eee;
+     border-radius: 5px;
+     padding: 0 30px;
+         padding-top: 0px;
+     background-color: #fff;
+     font-family: 'Hind', sans-serif;
+     font-size: 16px;
+     border: 1px solid #dc3545;
+     height: 160px;
+ padding-top: 20px;
+ resize: none;
+   }
+   #foem_btn
+   {
+       color: #fff;
+     background-color: #EB3656;
+ display: inline-block;
+ font-weight: 600;
+ text-align: center;
+ white-space: nowrap;
+ vertical-align: middle;
+ user-select: none;
+ border: 1px solid #EB3656;
+ padding: 0 30px;
+ font-size: 16px;
+ line-height: 48px;
+ transition: all 0.4s ease-out 0s;
+ box-shadow: 0px 5px 16px 0px rgba(235, 54, 86, 0.65);
+ font-family: 'Barlow', sans-serif;
+ text-transform: uppercase;
+   }
+   #ourServices
+   {   
+       /* display: flex; */
+       text-align: center;   
+   }
+   #ourServices p{
+       color: #EB3656;
+       font-size: 15;
+       text-align: center;
+   }
+   #ourServices h1{
+       color: #121619;
+       font-weight: 700;
+       text-align: center;
+   
+   } 
+  

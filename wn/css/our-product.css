@@ -1,0 +1,21 @@
+#body{
+    overflow-x:hidden;
+    font-family: 'Montserrat';
+    font-size: 14px;
+    background-color: rgba(235, 54, 86, 0.03137254901960784);
+  }
+  #head-title
+  {
+    background-color: #fff;
+    height: 140px;
+    width: auto;
+    text-align: center;
+    padding-top: 3%;
+    margin-top: -22%;
+    border-radius: 10px;
+    text-transform: uppercase;
+    box-shadow: 0px 5px 21px 0px rgba(254, 119, 101, 0.2); 
+  }
+
+
+  

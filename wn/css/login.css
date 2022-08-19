@@ -1,0 +1,25 @@
+
+.btn{
+    margin-top: 20px;
+   
+}
+.b{
+    background-color:white;
+}
+
+td{
+    font-size: 20px;
+    padding-top: 22px;
+    color:black;
+}
+.user{
+    border-radius: 20px;
+    padding-top: 10px;
+    border:#eb3656 solid 2px;
+    width:300px;   
+}
+.value{
+   
+    border-radius:15px ;
+    width: 100px;
+}
