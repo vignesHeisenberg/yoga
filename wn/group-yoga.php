@@ -167,12 +167,22 @@
                 </tr>
               </thead>
               <tbody>
-                <tr>
+              <tr>
+                  <td>5 AM IST </td>
+                  <td> 	Mon to Fri</td>
+                  <!-- <td>3000 - <a href="https://imjo.in/h3PaXx" style="text-decoration: none; color:#EB3656;"> Click here to pay </a></td>              -->
+                </tr>  
+              <tr>
                   <td>6 AM IST </td>
                   <td> 	Mon to Sat</td>
                   <!-- <td>3000 - <a href="https://imjo.in/h3PaXx" style="text-decoration: none; color:#EB3656;"> Click here to pay </a></td>              -->
                 </tr><tr>
                   <td>9.30 AM IST </td>
+                  <td> 	Mon to Fri</td>
+                  <!-- <td>3000 - <a href="https://imjo.in/h3PaXx" style="text-decoration: none; color:#EB3656;"> Click here to pay </a></td>              -->
+                </tr>
+                <tr>
+                  <td>3.30 PM IST </td>
                   <td> 	Mon to Fri</td>
                   <!-- <td>3000 - <a href="https://imjo.in/h3PaXx" style="text-decoration: none; color:#EB3656;"> Click here to pay </a></td>              -->
                 </tr>
@@ -224,6 +234,11 @@
                   </tr>
                 </thead>
                 <tbody>
+                <tr>
+                    <td>5 AM IST </td>
+                    <td> 	Mon to Fri</td>
+                    <!-- <td>3500 - <a href="https://imjo.in/hNhTCn" style="text-decoration: none; color:#EB3656;"> Click here to pay </a></td>              -->
+                  </tr>
                   <tr>
                     <td>6 AM IST </td>
                     <td> 	Mon to Sat</td>
@@ -231,6 +246,11 @@
                   </tr>
                   <tr>
                   <td>9.30 AM IST </td>
+                  <td> 	Mon to Fri</td>
+                  <!-- <td>3000 - <a href="https://imjo.in/h3PaXx" style="text-decoration: none; color:#EB3656;"> Click here to pay </a></td>              -->
+                </tr>
+                <tr>
+                  <td>3.30 PM IST </td>
                   <td> 	Mon to Fri</td>
                   <!-- <td>3000 - <a href="https://imjo.in/h3PaXx" style="text-decoration: none; color:#EB3656;"> Click here to pay </a></td>              -->
                 </tr>
@@ -250,14 +270,14 @@
 </div>
 
 <!-- 3 rd content -->
-<div class="container">
+<!-- <div class="container">
   <div class="row">
       <div class="col-lg-12 col-md-12 col-xs-12" style="margin-top: 3%;">
-<h4 style="color:#EB3656">3.PCOS Yoga</h4>
+<h4 style="color:#EB3656">3.PCOS Yoga</h4> -->
                 <!-- <p style="font-size: 14px;">Participate in DYFW's natural weight loss challenge 
                 which includes yoga and diet for a month. You will get tradional meal plan, nutritionist guidance along with
             whatsapp group support to achieve your goal. </p> -->
-            <p style="font-size: 14px;">Overcome PCOS in a healthy way.</p>
+            <!-- <p style="font-size: 14px;">Overcome PCOS in a healthy way.</p>
               
             <div class="table-responsive" data-aos="fade-up" data-aos-delay="100">          
               <table class="table"  style="border-radius: 25px 0 0 0; margin-top: 3%;">
@@ -278,18 +298,18 @@
                 </tbody>
               </table>
 
-            </div>
+            </div> -->
            <!-- <p style="font-size: 14px;">Payment - Rs.3500 - <a href="https://imjo.in/hNhTCn">Click here to pay</a></p> -->
-
+<!-- 
       </div>
   </div>
-</div>
+</div> -->
 
 <!-- 4 rd content -->
 <div class="container">
   <div class="row">
       <div class="col-lg-12 col-md-12 col-xs-12" style="margin-top: 3%;">
-<h4 style="color:#EB3656">4.Post delivery Yoga</h4>
+<h4 style="color:#EB3656">3.Men Yoga</h4>
                 <!-- <p style="font-size: 14px;">Participate in DYFW's natural weight loss challenge 
                 which includes yoga and diet for a month. You will get tradional meal plan, nutritionist guidance along with
             whatsapp group support to achieve your goal. </p> -->
@@ -301,21 +321,23 @@
                   <tr class="danger">
                     <th>Time</th>
                     <th>Monthly</th>
-                    <th>Payment</th> 
+                    <!-- <th>Payment</th>  -->
                   </tr>
                 </thead>
                 <tbody>
                   <tr>
-                    <td>6 PM IST </td>
-                    <td> Mon Wed Fri</td>
-                    <td>2500 - <a href="https://imjo.in/Hxgreu" style="text-decoration: none; color:#EB3656;"><b>Click here to pay</b> </a></td>           
+                    <td>7 AM IST </td>
+                    <td> Mon to Fri</td>
+                    <!-- <td>3500 - <a href="https://imjo.in/Hxgreu" style="text-decoration: none; color:#EB3656;"><b>Click here to pay</b> </a></td>            -->
                   </tr>
                   
                 </tbody>
               </table>
 
             </div>
-           <!-- <p style="font-size: 14px;">Payment - Rs.3500 - <a href="https://imjo.in/hNhTCn">Click here to pay</a></p> -->
+           <p style="font-size: 14px;">Payment - Rs.3500 - Gpay to 9884203845
+           <!-- <a href="https://imjo.in/hNhTCn">Click here to pay</a> -->
+          </p>
 
       </div>
   </div>
@@ -325,7 +347,7 @@
 <div class="container">
   <div class="row">
       <div class="col-lg-12 col-md-12 col-xs-12" style="margin-top: 3%;">
-<h4 style="color:#EB3656">5.Meditation Sessions</h4>
+<h4 style="color:#EB3656">4.Meditation Sessions</h4>
                 <!-- <p style="font-size: 14px;">Participate in DYFW's natural weight loss challenge 
                 which includes yoga and diet for a month. You will get tradional meal plan, nutritionist guidance along with
             whatsapp group support to achieve your goal. </p> -->
@@ -359,7 +381,7 @@
 <div class="container">
   <div class="row">
       <div class="col-lg-12 col-md-12 col-xs-12" style="margin-top: 1%;">
-<h4 style="color:#EB3656">6.Europe Time Zone Session </h4>
+<h4 style="color:#EB3656">5.Europe Time Zone Session </h4>
                 <!-- <p style="font-size: 14px;">Participate in DYFW's natural weight loss challenge 
                 which includes yoga and diet for a month. You will get tradional meal plan, nutritionist guidance along with
             whatsapp group support to achieve your goal. </p> -->

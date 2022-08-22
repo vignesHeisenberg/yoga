@@ -54,8 +54,10 @@ include "navbar.php";
                         <li><strong style="color:#000;">Who can join : </strong> &nbsp; Second and third trimester (after 12 weeks) only.</li>
                         <li><strong style="color:#000;">Days :</strong> &nbsp; Mon, Wed & Fri ;<strong style="color:#000;"> &nbsp;&nbsp; 2 batches :</strong> &nbsp; 7:00 AM IST , 6:00 PM IST</li>
                     </ul>
+                    <p class="content" style="font-size:14px;">You can attend any of the two batches based on your comfort</p>
                     <p class="content" style="font-size:14px;">Prenatal version of asanas, stretches, exercises, pranayama, baby meditation, Surya namaskar prenatal variations, tips for healthy pregnancy, labor preparation techniques etc</p>
-                    <p class="content" style="font-size:14px;"><strong style="color:#000;">Payment &nbsp; : </strong>&nbsp; <a href="https://www.instamojo.com/@divineyogaforwomen/" style="text-decorection:none">Click Here</a></p>
+                    <p class="content" style="font-size:14px;"><strong style="color:#000;">Payment &nbsp; : - Rs. 4000 -</strong>&nbsp; 
+                        <a href="https://www.instamojo.com/@divineyogaforwomen/" style="text-decorection:none">Click Here</a></p>
            </div>
 
            <!-- <div class="col-lg-10 col-md-12 col-xs-10 col-xs-offset-1">

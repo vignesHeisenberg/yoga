@@ -150,25 +150,7 @@ $_SESSION["check"] = 34;
                             </a>
                            </h5>
                      </li>
-                    <!-- <li>
-                       <h5>
-                          <a href="kids-yoga.php" style="text-decoration: none;" id="link">
-                          <span class="material-icons" style="font-size: 25px;">
-                            self_improvement
-                          </span>
-                             KIDS YOGA
-                          </a>
-                     </li> -->
-                     <!-- <li> 
-                       <h5>
-                          <a href="personal-sessions.php" style="text-decoration: none;" id="link">
-                          <span class="material-icons" style="font-size: 25px;">
-                              connect_without_contact
-                          </span>
-                              PERSONAL YOGA SESSION
-                            </a>
-                           </h5>
-                     </li> -->
+                    
                   </ul>
                </div>
            </div>
@@ -234,7 +216,6 @@ $_SESSION["check"] = 34;
                <h4 style="color:#EB3656">OTHERS </h4>
              </div>
               <div id="lastDiv">
-                  <!-- <h4 style="font-size:14px;"><a href="bws.php" style="text-decoration: none;"><i class="fad fa-angel" style="font-size: 14px;"></i> BEAUTIFUL WOMEN SERIES </a></h4> -->
                   <h4 style="font-size:14px;"><a href="our-product.php" style="text-decoration: none;"><i class="fab fa-opencart" style="font-size: 14px;"></i> PRODUCTS </a></h4>
                   <h4 style="font-size:14px;"><a href="consultation.php" style="text-decoration: none; ">
                   <i class="fas fa-desktop" style="font-size: 14px;"></i> CONSULTATIONS </a></h4>
@@ -245,7 +226,7 @@ $_SESSION["check"] = 34;
            </div>
         </div>
     </div>
-    <div class="container">
+    <!-- <div class="container">
       <div class="row">
         <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-xs-10 col-xs-offset-1 " id="ourServices">
           
@@ -259,28 +240,12 @@ $_SESSION["check"] = 34;
                       <span class="text">
                             
                               </span>1 month</p>
-                  <!-- <div class="package-name">
-           
-                  </div> -->
+                 
                   <div class="features">
                        <li>Timings available: 6 AM, 9.30 AM, 6 PM IST</li>
                         <li>Monday to Friday</li>
                         <li>1 hour per session</li>
-                          <!-- <span class="list-name">One Selected Template</span>
-                          <span class="icon check"><i class="fas fa-check-circle"></i></span>
-                      </li>
-                      <li>
-                          <span class="list-name">100% Responsive Design</span>
-                          <span class="icon check"><i class="fas fa-check-circle"></i></span>
-                      </li>
-                      <li>
-                          <span class="list-name">Credit Remove Permission</span>
-                          <span class="icon cross"><i class="far fa-times-circle"></i></span>
-                      </li>
-                      <li>
-                          <span class="list-name">Lifetime Template Updates</span>
-                          <span class="icon cross"><i class="far fa-times-circle"></i></span>
-                      </li> --> 
+                        
 
                       <div class="btn"><button onclick="location.href='https://imjo.in/h3PaXx';">Pay Now</button></div>
                   </div>
@@ -294,28 +259,12 @@ $_SESSION["check"] = 34;
                       <span class="text">
                             
                               </span>2 months</p>
-                  <!-- <div class="package-name">
-           
-                  </div> -->
+               
                   <div class="features">
                        <li>Timings available: 6 AM, 9.30 AM, 6 PM IST</li>
                            <li>Monday to Friday</li>
                            <li>1 hour per session</li>
-                          <!-- <span class="list-name">One Selected Template</span>
-                          <span class="icon check"><i class="fas fa-check-circle"></i></span>
-                      </li>
-                      <li>
-                          <span class="list-name">100% Responsive Design</span>
-                          <span class="icon check"><i class="fas fa-check-circle"></i></span>
-                      </li>
-                      <li>
-                          <span class="list-name">Credit Remove Permission</span>
-                          <span class="icon cross"><i class="far fa-times-circle"></i></span>
-                      </li>
-                      <li>
-                          <span class="list-name">Lifetime Template Updates</span>
-                          <span class="icon cross"><i class="far fa-times-circle"></i></span>
-                      </li> -->  
+                        
                       <div class="btn"><button onclick="location.href='https://imjo.in/h3PaXx';">Pay Now</button></div>
                   </div>
               </div>
@@ -328,37 +277,21 @@ $_SESSION["check"] = 34;
                       <span class="text">
                             
                               </span>3 months</p>
-                  <!-- <div class="package-name">
-           
-                  </div> -->
+                 
                   <div class="features">
                        <li>Timings available: 6 AM, 9.30 AM, 6 PM IST</li>
                         <li>Monday to Friday</li>
                         <li>1 hour per session</li>
-                          <!-- <span class="list-name">One Selected Template</span>
-                          <span class="icon check"><i class="fas fa-check-circle"></i></span>
-                      </li>
-                      <li>
-                          <span class="list-name">100% Responsive Design</span>
-                          <span class="icon check"><i class="fas fa-check-circle"></i></span>
-                      </li>
-                      <li>
-                          <span class="list-name">Credit Remove Permission</span>
-                          <span class="icon cross"><i class="far fa-times-circle"></i></span>
-                      </li>
-                      <li>
-                          <span class="list-name">Lifetime Template Updates</span>
-                          <span class="icon cross"><i class="far fa-times-circle"></i></span>
-                      </li> -->  
+                       
                       <div class="btn"><button onclick="location.href='https://imjo.in/h3PaXx';">Pay Now</button></div>
                   </div>
               </div>
           </div>
       </div>
-  </div>
+  </div> -->
   
   
-  <div class="row">
+  <!-- <div class="row">
     <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-xs-10 col-xs-offset-1 " id="ourServices">
           
         <h1 data-aos="fade-up" data-aos-delay="100"style="font-size:23px;">DYFW Other Programs</h1>
@@ -370,29 +303,13 @@ $_SESSION["check"] = 34;
                   <span class="text">
                             
                           </span> PCOS Yoga</p>
-              <!-- <div class="package-name">
-       
-              </div> -->
+              
               <div class="features">
                    <li>Time: 6 PM IST</li>
                     <li>Monday to Friday</li>
                     <li>1 hour per session</li>
                     <li>10 days diet plan</li>                           
-                      <!-- <span class="list-name">One Selected Template</span>
-                      <span class="icon check"><i class="fas fa-check-circle"></i></span>
-                  </li>
-                  <li>
-                      <span class="list-name">100% Responsive Design</span>
-                      <span class="icon check"><i class="fas fa-check-circle"></i></span>
-                  </li>
-                  <li>
-                      <span class="list-name">Credit Remove Permission</span>
-                      <span class="icon cross"><i class="far fa-times-circle"></i></span>
-                  </li>
-                  <li>
-                      <span class="list-name">Lifetime Template Updates</span>
-                      <span class="icon cross"><i class="far fa-times-circle"></i></span>
-                  </li> -->  
+                       
                   <div class="btn"><button onclick="location.href='https://imjo.in/wHg5FW';">Pay Now</button></div>
               </div>
           </div>
@@ -403,11 +320,9 @@ $_SESSION["check"] = 34;
           <div class="table basic">
               <p class="round">
                   <span class="text">
-                            <!-- &#8377; -->
+                          
                           </span>Pregnancy Yoga</p>
-              <!-- <div class="package-name">
-       
-              </div> -->
+              
               <div class="features">
                    <li>Timings available: 7 AM & 6 PM IST</li>
                    <li>Days: Mon, Wed, Fri</li>
@@ -415,21 +330,7 @@ $_SESSION["check"] = 34;
 <li></li>
 <li></li>              
 <li></li>              
-                      <!-- <span class="list-name">One Selected Template</span>
-                      <span class="icon check"><i class="fas fa-check-circle"></i></span>
-                  </li>
-                  <li>
-                      <span class="list-name">100% Responsive Design</span>
-                      <span class="icon check"><i class="fas fa-check-circle"></i></span>
-                  </li>
-                  <li>
-                      <span class="list-name">Credit Remove Permission</span>
-                      <span class="icon cross"><i class="far fa-times-circle"></i></span>
-                  </li>
-                  <li>
-                      <span class="list-name">Lifetime Template Updates</span>
-                      <span class="icon cross"><i class="far fa-times-circle"></i></span>
-                  </li> -->  
+                  
                   <div class="btn"><button onclick="location.href='contact.php'">Contact us</button></div>
               </div>
           </div>
@@ -440,11 +341,9 @@ $_SESSION["check"] = 34;
           <div class="table basic">
               <p class="round">
                   <span class="text">
-                            <!-- &#8377; -->
+                          
                           </span>Postpartum Yoga</p>
-              <!-- <div class="package-name">
-       
-              </div> -->
+              
               <div class="features">
                    <li>Time:6 PM IST</li>
                     <li>Days: Mon, Wed, Fri</li>
@@ -454,59 +353,29 @@ $_SESSION["check"] = 34;
 
                     
 
-                      <!-- <span class="list-name">One Selected Template</span>
-                      <span class="icon check"><i class="fas fa-check-circle"></i></span>
-                  </li>
-                  <li>
-                      <span class="list-name">100% Responsive Design</span>
-                      <span class="icon check"><i class="fas fa-check-circle"></i></span>
-                  </li>
-                  <li>
-                      <span class="list-name">Credit Remove Permission</span>
-                      <span class="icon cross"><i class="far fa-times-circle"></i></span>
-                  </li>
-                  <li>
-                      <span class="list-name">Lifetime Template Updates</span>
-                      <span class="icon cross"><i class="far fa-times-circle"></i></span>
-                  </li> -->  
+                    
                   <div class="btn"><button onclick="location.href='https://imjo.in/Hxgreu';">Pay Now</button></div>
               </div>
           </div>
       </div>
   </div>
-</div>
+</div> -->
 
-<div class="row">
+<!-- <div class="row">
   <div class="col-lg-4">
       <div class="border">
       <div class="table basic">
           <p class="round">
               <span class="text">
-                        <!-- &#8377; -->
+
                       </span>Meditation Sessions</p>
-          <!-- <div class="package-name">
-   
-          </div> -->
+         
           <div class="features">
                <li>Time: 6.30 PM IST</li>
                 <li>Days: Mon to Fri</li>
                 <li>Duration: 30 mins</li>
                    
-                  <!-- <span class="list-name">One Selected Template</span>
-                  <span class="icon check"><i class="fas fa-check-circle"></i></span>
-              </li>
-              <li>
-                  <span class="list-name">100% Responsive Design</span>
-                  <span class="icon check"><i class="fas fa-check-circle"></i></span>
-              </li>
-              <li>
-                  <span class="list-name">Credit Remove Permission</span>
-                  <span class="icon cross"><i class="far fa-times-circle"></i></span>
-              </li>
-              <li>
-                  <span class="list-name">Lifetime Template Updates</span>
-                  <span class="icon cross"><i class="far fa-times-circle"></i></span>
-              </li> -->  
+                  
               <div class="btn"><button onclick="location.href='https://imjo.in/p5Bvp7';">Pay Now</button></div>
           </div>
       </div>
@@ -517,11 +386,8 @@ $_SESSION["check"] = 34;
       <div class="table basic">
           <p class="round">
               <span class="text">
-                        <!-- &#8377; -->
                       </span>Detox Diet</p>
-          <!-- <div class="package-name">
-   
-          </div> -->
+       
           <div class="features">
                <li>10 days diet</li>
                <li>Through Whatsapp group</li>
@@ -531,21 +397,6 @@ $_SESSION["check"] = 34;
                <li></li>
                
                
-                  <!-- <span class="list-name">One Selected Template</span>
-                  <span class="icon check"><i class="fas fa-check-circle"></i></span>
-              </li>
-              <li>
-                  <span class="list-name">100% Responsive Design</span>
-                  <span class="icon check"><i class="fas fa-check-circle"></i></span>
-              </li>
-              <li>
-                  <span class="list-name">Credit Remove Permission</span>
-                  <span class="icon cross"><i class="far fa-times-circle"></i></span>
-              </li>
-              <li>
-                  <span class="list-name">Lifetime Template Updates</span>
-                  <span class="icon cross"><i class="far fa-times-circle"></i></span>
-              </li> -->  
               <div class="btn"><button onclick="location.href='detox-diet.php'">More Details</button></div>
           </div>
       </div>
@@ -556,11 +407,8 @@ $_SESSION["check"] = 34;
       <div class="table basic">
           <p class="round">
               <span class="text">
-                        <!-- &#8377; -->
                       </span>Europe Sessions</p>
-          <!-- <div class="package-name">
-   
-          </div> -->
+         
           <div class="features">
                <li>Time: 6 AM CET</li>
                 <li>Monday to Friday</li>
@@ -569,27 +417,13 @@ $_SESSION["check"] = 34;
                <li></li>
                
                   
-                  <!-- <span class="list-name">One Selected Template</span>
-                  <span class="icon check"><i class="fas fa-check-circle"></i></span>
-              </li>
-              <li>
-                  <span class="list-name">100% Responsive Design</span>
-                  <span class="icon check"><i class="fas fa-check-circle"></i></span>
-              </li>
-              <li>
-                  <span class="list-name">Credit Remove Permission</span>
-                  <span class="icon cross"><i class="far fa-times-circle"></i></span>
-              </li>
-              <li>
-                  <span class="list-name">Lifetime Template Updates</span>
-                  <span class="icon cross"><i class="far fa-times-circle"></i></span>
-              </li> -->  
+              
               <div class="btn"><button onclick="location.href='contact.php'">Contact Us</button></div>
           </div>
       </div>
   </div>
 </div>
-</div>
+</div> -->
 
 
 <!-- accordian end -->
@@ -599,7 +433,7 @@ $_SESSION["check"] = 34;
   <div class="row">
     <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-xs-10 col-xs-offset-1 " id="ourServices">
   
-    <h1 data-aos="fade-up" data-aos-delay="100">Registration  </h1>
+    <h1 data-aos="fade-up" data-aos-delay="100">Enquiry Form  </h1>
      </div>
 </div>
       <div class="row">
@@ -607,17 +441,7 @@ $_SESSION["check"] = 34;
           class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-12 col-xs-12"
         >
           <form action="" method="POST">
-            <div class="form-group">
-              <!-- <label for="exampleInputEmail1">Email address</label> -->
-              <input
-                type="email"
-                class="form-control"
-                name="mail"
-                id="inputEmail3"
-                placeholder="Email"
-                required
-              />
-            </div>
+           
             <div class="form-group">
               <!-- <label for="exampleInputPassword1">Name</label> -->
               <input
@@ -652,6 +476,17 @@ $_SESSION["check"] = 34;
                 name="contact_number"
                 id="inputEmail3"
                 placeholder="Contact Number"
+                required
+              />
+            </div>
+            <div class="form-group">
+              <!-- <label for="exampleInputEmail1">Email address</label> -->
+              <input
+                type="email"
+                class="form-control"
+                name="mail"
+                id="inputEmail3"
+                placeholder="Email"
                 required
               />
             </div>
