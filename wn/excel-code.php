@@ -1,5 +1,5 @@
 <?php  
-include('config.php');
+include('db.php');
 header("Content-Type: application/xls");    
 header("Content-Disposition: attachment; filename=Stock_Daily_Report.xls");  
 header("Pragma: no-cache"); 

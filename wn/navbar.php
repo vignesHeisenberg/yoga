@@ -152,22 +152,25 @@ transition: all 0.4s ease-out 0s;
                                     <li class="nav-item">
                                         <a class="page-scroll" href="contact.php">Contact</a>
                                     </li>
-                                    <li class="nav-item">
-                                        <a class="page-scroll" href="about.php">ABOUT</a>
-                                    </li>
                                     <!-- <li class="nav-item">
+                                        <a class="page-scroll" href="about.php">ABOUT</a>
+                                    </li> -->
+                                    <li class="nav-item">
                                         <div class="dropdown page-scroll">
                                             <button class="btn btn-default our-dropdown dropdown-toggle" type="button" id="drop" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true"  style="background-color: transparent; border: none; outline: none;">
-                                                TESTIMONAL
+                                            ABOUT
                                               <span class=""></span>
                                             </button>
                                             <ul class="dropdown-menu " aria-labelledby="dropdownMenu1">
-                                                <li><a href="testimonal.php">TESTIMONAL</a></li>
+                                                <!-- <li><a href="testimonal.php">TESTIMONAL</a></li> -->
+                                                <li class="nav-item">
+                                                    <a class="page-scroll" href="about.php">ABOUT</a>
+                                                </li>       
                                                 <li><a href="demo1.php">ADMIN</a></li>
                                              
                                             </ul>
                                           </div>
-                                    </li> -->
+                                    </li>
                                 </ul> <!-- navbar nav -->
                             </div>
                             <!-- <div class="navbar-btn ml-20 d-none d-sm-block">

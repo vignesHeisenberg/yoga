@@ -133,8 +133,13 @@ if( $c == 35)
             </form>
         </div>
     </div>
-    </dic>
-    
+    </div>
+    <div class="container">
+      <div class="row">
+        <h3>Client Detaiils Download <a href="./excel-code.php" class="btn btn-danger">Click Here</a></h3>
+      </div>
+    </div>
+
 </body>
 </html>
 
