@@ -313,7 +313,7 @@
                 <!-- <p style="font-size: 14px;">Participate in DYFW's natural weight loss challenge 
                 which includes yoga and diet for a month. You will get tradional meal plan, nutritionist guidance along with
             whatsapp group support to achieve your goal. </p> -->
-            <p style="font-size: 14px;">Strenghten your body after delivery.</p>
+            <!-- <p style="font-size: 14px;">Strenghten your body after delivery.</p> -->
               
             <div class="table-responsive" data-aos="fade-up" data-aos-delay="100">          
               <table class="table"  style="border-radius: 25px 0 0 0; margin-top: 3%;">
