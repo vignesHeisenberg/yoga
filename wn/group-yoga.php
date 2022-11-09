@@ -40,10 +40,12 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-12 col-md-12 col-xs-12">
-            <h2  style="color:#EB3656" data-aos="fade-up" data-aos-delay="100">GROUP YOGA SESSIONS:</h2>
-            <ul style=" line-height:2.5em; list-style-type:disc; padding-left: 5%;">
-                <li>We provide a well-balanced combination of stretches, asanas, pranayama, meditation and lot more focused on harmone balancing, fitness, flexibility & on overall women health.</li>
-            </ul>
+            <h2  style="color:#EB3656" data-aos="fade-up" data-aos-delay="100">OUR SESSIONS:</h2>
+            <ul style=" line-height:2.5em; list-style-type:none; padding-left: 5%;">
+            <li>We provide a well-balanced combination of stretches, asanas, pranayama, meditation and lot more focused on harmone balancing, fitness, flexibility & on overall women health.</li>
+                <li> <i>Abroad people can check given IST timings in your Timezone. </i></li>
+                
+              </ul>
             </div>
         </div>
     </div>
@@ -155,7 +157,8 @@
     <div class="row">
         <div class="col-lg-12 col-md-12 col-xs-12" style="margin-top: 1%;">
           <h4 style="color:#EB3656">1. DYFW Group Yoga</h4>
-          <p style="font-size: 14px;">Register for DYFW's customised group yoga session. Beginners can also join. </p>
+          <p style="font-size: 14px;">Register for DYFW's customised group yoga sessions to keep your body physically and mentally fit. Beginners can also join. </p>
+         
            <!-- <p style="font-size: 14px;">Sessions on 6 days a week - 25 sessions per month.</p> -->
            <div class="table-responsive" data-aos="fade-up" data-aos-delay="100">          
             <table class="table"  style="border-radius: 25px 0 0 0; margin-top: 1%;">
@@ -176,8 +179,14 @@
                   <td>6 AM IST </td>
                   <td> 	Mon to Sat</td>
                   <!-- <td>3000 - <a href="https://imjo.in/h3PaXx" style="text-decoration: none; color:#EB3656;"> Click here to pay </a></td>              -->
-                </tr><tr>
+                </tr>
+                <tr>
                   <td>9.30 AM IST </td>
+                  <td> 	Mon to Fri</td>
+                  <!-- <td>3000 - <a href="https://imjo.in/h3PaXx" style="text-decoration: none; color:#EB3656;"> Click here to pay </a></td>              -->
+                </tr>
+                <tr>
+                  <td>10.30 AM IST </td>
                   <td> 	Mon to Fri</td>
                   <!-- <td>3000 - <a href="https://imjo.in/h3PaXx" style="text-decoration: none; color:#EB3656;"> Click here to pay </a></td>              -->
                 </tr>
@@ -216,12 +225,13 @@
 <div class="container">
   <div class="row">
       <div class="col-lg-12 col-md-12 col-xs-12" style="margin-top: 3%;">
-<h4 style="color:#EB3656">2.WEIGHT LOSS CHALLENGE ( Yoga & Diet )</h4>
+<h4 style="color:#EB3656">2.Weight loss Challenge </h4>
                 <!-- <p style="font-size: 14px;">Participate in DYFW's natural weight loss challenge 
                 which includes yoga and diet for a month. You will get tradional meal plan, nutritionist guidance along with
             whatsapp group support to achieve your goal. </p> -->
-            <p style="font-size: 14px;">DYFW's natural weight loss challenge includes yoga sessions and diet for a month. 
-              You will get nutritionist guidance throughout along with whatsapp group support.- 
+            <p style="font-size: 14px;">DYFW's natural weight loss challenge includes
+               <span style="text-decoration:underline"> yoga sessions and diet </span> for a month. 
+              You will get nutritionist guidance throughout the month along with whatsapp group support.- 
               Beginners can also join.</p>
               
             <div class="table-responsive" data-aos="fade-up" data-aos-delay="100">          
@@ -246,6 +256,11 @@
                   </tr>
                   <tr>
                   <td>9.30 AM IST </td>
+                  <td> 	Mon to Fri</td>
+                  <!-- <td>3000 - <a href="https://imjo.in/h3PaXx" style="text-decoration: none; color:#EB3656;"> Click here to pay </a></td>              -->
+                </tr>
+                <tr>
+                  <td>10.30 AM IST </td>
                   <td> 	Mon to Fri</td>
                   <!-- <td>3000 - <a href="https://imjo.in/h3PaXx" style="text-decoration: none; color:#EB3656;"> Click here to pay </a></td>              -->
                 </tr>
@@ -326,7 +341,7 @@
                 </thead>
                 <tbody>
                   <tr>
-                    <td>7 AM IST </td>
+                    <td>6.30 AM IST </td>
                     <td> Mon to Fri</td>
                     <!-- <td>3500 - <a href="https://imjo.in/Hxgreu" style="text-decoration: none; color:#EB3656;"><b>Click here to pay</b> </a></td>            -->
                   </tr>
@@ -347,32 +362,15 @@
 <div class="container">
   <div class="row">
       <div class="col-lg-12 col-md-12 col-xs-12" style="margin-top: 3%;">
-<h4 style="color:#EB3656">4.Meditation Sessions</h4>
+<h4 style="color:#EB3656">4.Detox Diet</h4>
                 <!-- <p style="font-size: 14px;">Participate in DYFW's natural weight loss challenge 
                 which includes yoga and diet for a month. You will get tradional meal plan, nutritionist guidance along with
             whatsapp group support to achieve your goal. </p> -->
-            <p style="font-size: 14px;">Meditation and pranayama for mental wellness</p>
+            <p style="font-size: 14px;">Our special diet program through whatsapp group conducted monthly once</p>
+            <p style="font-size: 14px;"><a href="./detox-diet.php">Click here for more details</a></p>
+           
               
-            <div class="table-responsive" data-aos="fade-up" data-aos-delay="100">          
-              <table class="table"  style="border-radius: 25px 0 0 0; margin-top: 3%;">
-                <thead>
-                  <tr class="danger">
-                    <th>Time</th>
-                    <th>Monthly</th>
-                    <th>Payment</th> 
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td>6.30 PM IST </td>
-                    <td> Mon to Fri</td>
-                    <td>2000 - <a href="https://imjo.in/p5Bvp7" style="text-decoration: none; color:#EB3656;"><b>Click here to pay</b> </a></td>           
-                  </tr>
-                  
-                </tbody>
-              </table>
-
-            </div>
+          
            <!-- <p style="font-size: 14px;">Payment - Rs.3500 - <a href="https://imjo.in/hNhTCn">Click here to pay</a></p> -->
 
       </div>
@@ -381,29 +379,14 @@
 <div class="container">
   <div class="row">
       <div class="col-lg-12 col-md-12 col-xs-12" style="margin-top: 1%;">
-<h4 style="color:#EB3656">5.Europe Time Zone Session </h4>
+<h4 style="color:#EB3656">5.Pregnancy Yoga </h4>
                 <!-- <p style="font-size: 14px;">Participate in DYFW's natural weight loss challenge 
                 which includes yoga and diet for a month. You will get tradional meal plan, nutritionist guidance along with
             whatsapp group support to achieve your goal. </p> -->
-            <p style="font-size: 14px;">DYFW's customized group yoga sessions for a month - Beginners can also join.</p>  <p style="font-size: 14px;"> Sessions on 5 days a week - 20 sessions per month.</p>
-            <div class="table-responsive" data-aos="fade-up" data-aos-delay="100">          
-              <table class="table"  style="border-radius: 25px 0 0 0; margin-top: 1%;">
-                <thead>
-                  <tr class="danger">
-                    <th>Time</th>
-                    <th>Monthly</th>
-                    <th>Payment</th>
-                  </tr>
-                </thead>
-                <tbody>
-                  <tr>
-                    <td>6 AM CET </td>
-                    <td> 	Mon to Fri</td>
-                    <td>4500 - <a href="https://imjo.in/edFuZr" style="text-decoration: none; color:#EB3656;"><b>Click here to pay</b> </a></td>             
-                  </tr>
-                </tbody>
-              </table>
-              </div>
+            <p style="font-size: 14px;">DYFW's pregnancy yoga sessions for a month - Beginners can also join.</p>
+            <p style="font-size: 14px;"><a href="./pregnancy-yoga.php">Click here for more details</a></p>
+            
+           
       </div>
   </div>
 </div>
