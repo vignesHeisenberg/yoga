@@ -15,6 +15,8 @@
     <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
     <link rel="stylesheet" href="asset\Divineyoga.png" type="image/x-icon">
     <link rel="stylesheet" href="./css/yogaforwomen.css">
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@48,400,0,0" />
 </head>
 <body id="body">
     <div class="container-fluid">
@@ -93,32 +95,32 @@
 <div class="container">
     <div class="row">
         <div class="col-lg-12 col-md-12 col-xs-12">
-        <h6 style="color: #EB3656; font-size:16px;"><strong style="color:#eb3656;">Price details:</strong></h6>
-            <!-- <p style="font-size: 14px;">Free within Tamilnadu</p>
-            <p style="margin-top:1%; font-size: 14px;">Rs 100 outside Tamilnadu</p> -->
-           <!-- Price details:
-Vetpaalai Oil - 200 ml - Rs.250
-Vetpaalai Oil - 100 ml - Rs.150
-
-Vetpaalai Soap - 80 gm - Rs.100
-
-Shipping free (available only India) within Tamilnadu
-Shipping Rs.100 for other states -->
-
-            <p style="margin-top:1%; font-size: 14px;"> Vetpaalai Oil - 200 ml - Rs.250 </p>
-            <p style="margin-top:1%; font-size: 14px;"> Vetpaalai Oil - 100 ml - Rs.150 </p>
-            <p style="margin-top:1%; font-size: 14px;"> Vetpaalai Soap - 80 gm - Rs.100 </p>
-            <p style="margin-top:1%; font-size: 14px;">Shipping free (available only India) within Tamilnadu </p>
-            <p style="margin-top:1%; font-size: 14px;"> Shipping Rs.100 for other states </p>
+        <h6 style="color: #EB3656; font-size:16px;"><strong style="color:#eb3656;">Purchase Here :</strong></h6>
+            <p style="margin-top:1%; font-size: 14px;">
+            <span class="material-symbols-outlined">
+            local_mall
+            </span>
+            <a href="https://sivamfarms.com/">&nbsp; sivamfarms.com</a>    
+        
+        </p>
+            
         </div>
     </div>
 </div>
 <div class="container">
     <div class="row">
         <div class="col-lg-12 col-md-12 col-xs-12" style="margin-top: 2%;">
-        <h6 style="color: #EB3656; font-size:16px;"><strong style="color:#eb3656;">Payment Method:</strong></h6>
-            <p style="font-size: 14px;">Paytm or Google pay to <b> 9884203845 </b>. Send your <b> name, contact number & address </b> in the Google pay chat after sending your payment to us.</p>
-            <p style="margin-top: 1%; font-size: 14px;">Items will be shipped after payment confirmation screenshot to Whatsapp at 9884203845.</p>
+        <h6 style="color: #EB3656; font-size:16px;"><strong style="color:#eb3656;">Alternate Method:</strong></h6>
+            <p style="font-size: 14px;">
+            <span class="material-symbols-outlined">
+                mail
+            </span>&nbsp; farmsivam@gmail.com
+            </p>
+            <p style="font-size: 14px;">
+            <span class="material-symbols-outlined">
+                call
+            </span>&nbsp; 9840283274
+            </p>
         </div>
     </div>
 </div>

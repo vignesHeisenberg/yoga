@@ -38,23 +38,19 @@ include "navbar.php";
             </div>
     
         <div class="col-lg-10 col-lg-offset-1 col-xs-10 col-xs-offset-1">
-                <p id="sub-title"><strong style="color:#eb3656;">REGISTRATION & PAYMENT LINK:</strong><p>
-                 <p style="font-size: 14px;">Payment:  – <strong style="color:#000;">Rs. 1200 :</strong> <a href="https://imjo.in/JshesT" style="color:#5A3494;"><strong>Click here to pay</strong> </a></p>
+                <p id="sub-title"><strong style="color:#eb3656;">REGISTRATION :</strong><p>
+                 <p style="font-size: 14px;">
+                    
+                <a href="https://divineyogaforwomen.mojo.page/divineyogaforwomen" 
+                class="btn btn-primary" style="background-color: #EB3656; color: #fff; border: none; margin-top: 5px;">Register Now</a>
+               
+                </p>
                 <ol style="font-size: 14px;">
                     <li>Payment is <strong style="color:#000;">non-refundable and non-transferable</strong> to others <strong style="color:#000;">at any situation</strong> (We don’t work on refunding, unless the program is cancelled by us).</li>
                     <li>If you are unable to participate in the diet after registering, you <strong style="color:#000;">cannot join in next batch with same payment</strong> as the seats are planned & limited.</li>
                     <li>Participation is at your discretion. Payments are final.</li>
                 </ol>
         </div>
-
-            <!-- <div class="col-lg-10 col-lg-offset-1 col-xs-10 col-xs-offset-1">
-                <p id="sub-title"><strong style="color:#eb3656;">BENEFITS:</strong><p>
-                    <p id="content"> 1.Removes toxin from body; &nbsp;&nbsp;2. Burns body fat;&nbsp;&nbsp;  3. Cures various diseases;&nbsp;&nbsp;
-                         4. Helps infertility; &nbsp;&nbsp;5. Cures irregular periods;&nbsp;&nbsp;6.Gives glowing skin;&nbsp;&nbsp;
-                          7. Get rid of relationship problems; &nbsp;&nbsp;8.Reduces Stress; &nbsp;&nbsp;9.Reduces Hair loss;&nbsp;&nbsp;
-                           10. Chemical free healthy life style;&nbsp;&nbsp;11. Positive vibes at home; &nbsp;&nbsp;12.Improves Overall Physical Health.</p>                      
-            </div> -->
-
             <div class="col-lg-10 col-lg-offset-1 col-xs-10 col-xs-offset-1">
                 <p id="sub-title"><strong style="color:#eb3656;">NOTE:</strong><p>
                     <p id="content">                        
@@ -76,12 +72,6 @@ include "navbar.php";
                         </ul>
                     </p>                      
             </div>
-
-            <!-- <div class="col-lg-10 col-md-12 col-xs-10 col-xs-offset-1">
-        <div class="embed-responsive embed-responsive-16by9" style="margin-top:3%;">
-             <iframe class="embed-responsive-item" src="./asset/video1.mp4" allowfullscreen></iframe>
-        </div>
-        </div> -->
     </div>
 </div> 
 
